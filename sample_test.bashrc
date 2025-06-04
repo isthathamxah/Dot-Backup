@@ -1,0 +1,1 @@
+echo "DotSync test" 
